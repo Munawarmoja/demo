@@ -12,7 +12,8 @@ It is composed of two major parts:
 
 ## Initial Development
 
-Read [`doc/development.md`](./doc/development.md) to get started and learn how to run this app in development.
+Read [`doc/developme![20241024_172348](https://github.com/user-attachments/assets/4dc8a323-5ae3-4de0-abff-bdfc436a7946)
+nt.md`](./doc/development.md) to get started and learn how to run this app in development.
 
 > **WARNING**
 >
