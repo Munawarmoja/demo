@@ -1,6 +1,11 @@
 # Pi Platform Demo App: Development Environment
 
-The following document explains how to set up a development environment and run the Pi Platform Demo App in the
+git clone git@github.com:pi-apps/platform-demo-app.git
+cd platform-demo-app
+
+The following document expla
+
+ins how to set up a development environment and run the Pi Platform Demo App in the
 sandbox environment.
 
 ## Prerequisites:
